@@ -1,3 +1,4 @@
+
 project(banking_lib)
 
 if (NOT TARGET libbanking)
